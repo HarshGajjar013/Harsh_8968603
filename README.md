@@ -1,4 +1,4 @@
-Your name: Harsh Gajjar
+Name: Harsh Gajjar
 
 Project Name: Lab 3
 
